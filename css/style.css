@@ -139,8 +139,8 @@ hr {
 
 /* home section */
 #home {
-  /* background: url('../images/pate9.jpg') 50% 0 repeat-y fixed; */
-  background: url('../images/pate8.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/pate9.jpg') 50% 0 repeat-y fixed;
+  /* background: url('../images/pate8.jpg') 50% 0 repeat-y fixed; */
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center;
@@ -246,7 +246,7 @@ hr {
 }
 
 #gallery .col-md-4 {
-  padding-top: 52px;
+  /* padding-top: 12px; */
 }
 
 #gallery img {
